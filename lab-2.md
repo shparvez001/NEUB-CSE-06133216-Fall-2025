@@ -2,7 +2,7 @@
 
 In this lab we discuss JavaScript the topics include
 * Understand JavaScript basics and syntax
-* Copntrol structure
+* Control structure
 * DOM manipulation
 * CSS manipulation
 
