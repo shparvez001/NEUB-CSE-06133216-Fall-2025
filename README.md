@@ -10,3 +10,6 @@ NEUB CSE Web Technologies Fall 2025
 3. [Lab 3](https://github.com/shparvez001/NEUB-CSE-06133216-Fall-2025/tree/main/lab-3.md).
     1. Discussion about JSON and Asynchronous Data Loading
     2. TASK: Result Viewer    
+4. [Lab 4](https://github.com/shparvez001/NEUB-CSE-06133216-Fall-2025/tree/main/lab-4.md).
+    1. Discussion about storing data in browser using Web Storage, webSQL, and indexedDB
+    2. TASK: Create a TODO app in html with data stored in the browser

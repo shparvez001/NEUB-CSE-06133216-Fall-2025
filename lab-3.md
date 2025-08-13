@@ -1,4 +1,4 @@
-# NEUB CSE-06133216 Fall 2025 Lab 2
+# NEUB CSE-06133216 Fall 2025 Lab 3
 
 In this lab we discuss JavaScript. The topics include
 * JSON Data storage
