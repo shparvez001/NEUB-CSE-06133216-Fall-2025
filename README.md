@@ -13,3 +13,5 @@ NEUB CSE Web Technologies Fall 2025
 4. [Lab 4](https://github.com/shparvez001/NEUB-CSE-06133216-Fall-2025/tree/main/lab-4.md).
     1. Discussion about storing data in browser using Web Storage, webSQL, and indexedDB
     2. TASK: Create a TODO app in html with data stored in the browser
+5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-06133216-Fall-2025/tree/main/lab-5.md).
+    1. Discussion about PHP. The topics include basic php structure, loops, and form handling.

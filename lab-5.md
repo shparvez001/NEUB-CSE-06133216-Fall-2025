@@ -1,10 +1,7 @@
 # NEUB CSE-06133216 Fall 2025 Lab 5
 
-In this lab we discuss JavaScript. The topics include
-* Web storage API
-    * localStorage
-    * sessionStorage
-* IndexedDB
+In this lab we discuss PHP. The topics include basic php structure, loops, and form handling.
+
 
 ## Class Codes
 ### Creating basic HTML structure using php
