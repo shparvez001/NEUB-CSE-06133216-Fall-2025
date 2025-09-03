@@ -15,3 +15,6 @@ NEUB CSE Web Technologies Fall 2025
     2. TASK: Create a TODO app in html with data stored in the browser
 5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-06133216-Fall-2025/tree/main/lab-5.md).
     1. Discussion about PHP. The topics include basic php structure, loops, and form handling.
+5. [Lab 6](https://github.com/shparvez001/NEUB-CSE-06133216-Fall-2025/tree/main/lab-6.md).
+    1. Discussion about database usage in php and session.   
+    2. Task: Expenditure tracket mini app. 
